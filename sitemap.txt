@@ -1,0 +1,5 @@
+https://www.woshipan.github.io.com/manifest.json
+https://www.woshipan.github.io.com/tags/index.html
+https://www.woshipan.github.io.com/categories/index.html
+https://www.woshipan.github.io.com/2024/11/21/hello-world/
+https://www.woshipan.github.io.com/

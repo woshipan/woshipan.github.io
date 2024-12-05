@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>My blog</title>
+  <icon>https://www.gravatar.com/avatar/9cef909e3d07924c136bfbe82800f397</icon>
+  <subtitle>blog</subtitle>
   <link href="https://www.woshipan.github.io.com/atom.xml" rel="self"/>
   
   <link href="https://www.woshipan.github.io.com/"/>
@@ -10,8 +10,8 @@
   <id>https://www.woshipan.github.io.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Pan huichao</name>
+    <email>2420940480@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
