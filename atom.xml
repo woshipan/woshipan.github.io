@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>My blog</title>
+  <title>哦的博客</title>
   <icon>https://www.gravatar.com/avatar/9cef909e3d07924c136bfbe82800f397</icon>
-  <subtitle>blog</subtitle>
+  <subtitle>你终于来了，我等你很久了呦！</subtitle>
   <link href="https://www.woshipan.github.io.com/atom.xml" rel="self"/>
   
   <link href="https://www.woshipan.github.io.com/"/>
@@ -10,7 +10,7 @@
   <id>https://www.woshipan.github.io.com/</id>
   
   <author>
-    <name>Pan huichao</name>
+    <name>彭于晏</name>
     <email>2420940480@qq.com</email>
   </author>
   
